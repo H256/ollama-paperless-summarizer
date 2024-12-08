@@ -7,9 +7,9 @@ This is a document summarization application using BunJS and Ollama AI server to
 - Supports saving the generated summaries locally as text files.
 
 ## Requirements
-- Node.js and BunJS installed.
-- Access to a Paperless service API.
-- Running instance of Ollama AI server.
+- Node.js and [BunJS](https://bun.sh/) installed.
+- Access to a [Paperless](https://docs.paperless-ngx.com/) service API.
+- Running instance of [Ollama](https://ollama.com/) AI server.
 
 ## Installation
 1. **Clone the repository:**
