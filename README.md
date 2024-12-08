@@ -1,5 +1,9 @@
 # Ollama AI document summarizer for PaperlessNGX
 This is a document summarization application using BunJS and Ollama AI server to generate AI-powered summaries of documents stored in a Paperless service.
+
+This is a research project on how AI can be used to do useful stuff.
+Feel free to use it, but use it at your own risk.
+
 ## Features
 - Fetches documents from a specified Paperless URL.
 - Generates AI-based summaries using the Ollama server with the specified Llama model.
