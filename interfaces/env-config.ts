@@ -5,5 +5,5 @@ export interface EnvConfig {
     apiKey: string;
     paperlessUrl: string;
     saveTxtSummary?: number;
-    saveTxtPath?:string;
+    saveTxtPath?: string;
 }

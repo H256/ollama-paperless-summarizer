@@ -1,2 +1,2 @@
-FROM llama3.1:8b
-PARAMETER num_ctx 12288
+FROM mistral
+PARAMETER num_ctx 32768
